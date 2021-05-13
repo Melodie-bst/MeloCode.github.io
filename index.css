@@ -1,0 +1,95 @@
+@font-face {
+    font-family: 'handletters';
+    src: url('handletters.ttf');
+}
+
+body{
+    background-image:url("fonddepage.jpg");
+      background-size:cover;
+  font-family: 'handletters';
+  }
+
+  .avatar{
+      width:230px;
+      height:230px;
+      top:80px; 
+      left: -1px;
+      background-image: url("sceaucartedevisite.jpg");
+      background-size:100% 100%;
+      padding: 10px;
+      margin-top: 20px;
+  }
+  
+  .cartedevisite{
+      position:relative;
+      height:450px;
+      width:600px;
+      background:white;
+      margin:10% auto;
+      overflow:hidden;
+      z-index:100;
+      border-radius:20px;
+  }
+  
+  .corpdecarte{
+      width:50%;
+      height: 90%;
+      background-color: white;
+      margin-left:270px;
+      margin-top: -250px;
+  }
+  
+  h1.nom{
+      font-size:65px;
+      font-weight:800px;
+      color:black;
+      margin: 0px;
+  }
+  h2.fonction{
+      font-size:40px;
+      font-weight:800px;
+      color:rgb(97, 95, 95);
+      padding:0;
+      margin:0px;
+      margin-left: 30px;
+  }
+  .informations{
+      margin-top:5px;
+      padding-left:30px;
+      list-style-type:none;
+    
+  }
+  .informations li{
+      height:30px;
+      width:80%;
+      line-height:40px;
+      font-weight:500;
+      font-size:25px;
+      color:rgb(59, 58, 58);
+      padding:5px 0px;
+      background-repeat:no-repeat;
+      background-size:18px 18px;
+      border-bottom:1px solid rgba(0,0,0,0.1);
+      cursor:default;
+  }
+  .git{
+      height: 50px;
+      width: 70px;
+      margin: 0px;
+      margin-top: -10px;
+      margin-left: -2px;
+
+  }
+  .lin{
+    height: 50px;
+    width: 70px;
+    margin: 5px;
+    margin-top: -10px;
+  }
+ .open{
+    height: 25px;
+    width: 110px;
+    margin: 5px; 
+    margin-top: 0px;
+ }
+ 
