@@ -2,6 +2,7 @@ body{
     background-image:url("fonddepage.jpg");
       background-size:cover;
       font-family: 'Dancing script', cursive;
+    color: blue;
   }
 
   .avatar{
