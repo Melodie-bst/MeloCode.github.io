@@ -97,6 +97,7 @@ body{
   }
 
   .mail:hover{
+      text-decoration: underline;
       color: rgb(219, 178, 65);
   }
 
@@ -106,7 +107,8 @@ body{
   }
 
   .phone:hover{
-    color: rgb(219, 178, 65);
+      text-decoration: underline;
+      color: rgb(219, 178, 65);
   }
 
   .git{
