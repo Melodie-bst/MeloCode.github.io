@@ -43,7 +43,6 @@ body{
       background-color: white;
       margin-left:295px;
       margin-top: -125px;
-
   }
   
   h1.nom{
@@ -54,6 +53,7 @@ body{
       margin-left: 30px;
       text-align: center;
   }
+
   h2.fonction{
       font-size:40px;
       font-weight:800px;
@@ -63,6 +63,7 @@ body{
       margin-left: 30px;
       text-align: center;
   }
+
   .informations{
       margin-top:5px;
       padding-left:30px;
@@ -73,8 +74,8 @@ body{
       border-radius: 20px;
       margin-top: 45px;
       margin-left: 40px;
-    
   }
+
   .informations li{
       height:30px;
       width:80%;
@@ -87,7 +88,6 @@ body{
       background-size:18px 18px;
       border-bottom:1px solid rgba(0,0,0,0.1);
       cursor:default;
-
   }
 
   .mail{
@@ -114,14 +114,15 @@ body{
       margin: 0px;
       margin-top: -10px;
       margin-left: -2px;
-
   }
+
   .lin{
     height: 50px;
     width: 70px;
     margin: 5px;
     margin-top: -10px;
   }
+
  .open{
     height: 25px;
     width: 110px;
