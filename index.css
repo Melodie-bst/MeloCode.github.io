@@ -1,7 +1,7 @@
 body{
     background-image:url("fonddepage.jpg");
       background-size:cover;
-      font-family: 'Dancing script';
+      font-family: 'Dancing script', cursive;
   }
 
   .avatar{
