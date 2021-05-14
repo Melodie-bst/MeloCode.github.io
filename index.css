@@ -92,6 +92,16 @@ body{
       cursor:default;
   }
 
+  .adresse{
+      color: black;
+      text-decoration: none;
+  }
+
+  .adresse:hover{
+    text-decoration: underline;
+    color: rgb(219, 178, 65);
+  }
+
   .mail{
       color: black;
       text-decoration: none;
