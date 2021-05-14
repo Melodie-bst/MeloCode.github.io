@@ -12,6 +12,7 @@ body{
       opacity: 0.2;
       margin-top: -430px;
       margin-left: -10px;
+      border: solid rgb(151, 148, 148);
   }
 
   .avatar{
